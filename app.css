@@ -1,0 +1,18 @@
+h1{
+	color: red;
+
+	border: 1px solid green;
+}
+li{
+	color: #778899;
+}
+h4{
+	color: green;
+	background: rgb(255,100,80);
+}
+body{
+	background: rgb(24, 36, 56);
+/*	background: url(https://backgroundcheckall.com/wp-content/uploads/2018/10/high-resolution-wood-grain-background-7.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;*/
+}
