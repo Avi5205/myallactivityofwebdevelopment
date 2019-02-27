@@ -1,2 +1,3 @@
 # myallactivityofwebdevelopment
-open activity.html
+	<a href="activity.html">Click me</a>
+
