@@ -1,0 +1,2 @@
+# myallactivityofwebdevelopment
+open activity.html
